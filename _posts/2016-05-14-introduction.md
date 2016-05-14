@@ -1,12 +1,12 @@
 ---
 description: 'Hello, my name is John Jung. I am an entrepreneur and software engineer.'
-dateModified: '2016-05-14T21:12:40.979Z'
-datePublished: '2016-05-14T21:12:41.176Z'
+dateModified: '2016-05-14T21:12:42.914Z'
+datePublished: '2016-05-14T21:12:43.098Z'
 title: Introduction
 author: []
 sourcePath: _posts/2016-05-14-introduction.md
 isBasedOnUrl: ''
-starred: true
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
