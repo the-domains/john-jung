@@ -4,7 +4,7 @@
         <description><![CDATA[John Jung]]></description>
         <link>http://johnjung.me/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 14 May 2016 21:57:53 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 May 2016 21:58:09 GMT</lastBuildDate>
         <atom:link href="http://johnjung.me/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Introduction]]></title>
@@ -18,13 +18,6 @@
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0436c52f-c245-40ba-a031-53b23163a10b.jpg">]]></description>
             <link>http://johnjung.me/a3b43449-9bc7-489a-a5b7-ba2313b7f80f/index.html</link>
             <guid isPermaLink="false">a3b43449-9bc7-489a-a5b7-ba2313b7f80f</guid>
-            <pubDate>Sat, 14 May 2016 21:50:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9ac39339-6de5-40ec-9dba-94716bf960ea.jpg">]]></description>
-            <link>http://johnjung.me/c7df089e-4c3b-4de0-a4d6-0abe38b7efca/index.html</link>
-            <guid isPermaLink="false">c7df089e-4c3b-4de0-a4d6-0abe38b7efca</guid>
             <pubDate>Sat, 14 May 2016 21:50:51 GMT</pubDate>
         </item>
     </channel>
