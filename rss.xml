@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[John Jung]]></title>
         <description><![CDATA[John Jung]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://johnjung.me/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 14 May 2016 21:37:20 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 14 May 2016 21:37:42 GMT</lastBuildDate>
+        <atom:link href="http://johnjung.me/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0436c52f-c245-40ba-a031-53b23163a10b.jpg">]]></description>
+            <link>http://johnjung.me/a3b43449-9bc7-489a-a5b7-ba2313b7f80f/index.html</link>
+            <guid isPermaLink="false">a3b43449-9bc7-489a-a5b7-ba2313b7f80f</guid>
+            <pubDate>Sat, 14 May 2016 21:37:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5466fcdc-d36d-4d6b-bc49-2898e0d01991.jpg">]]></description>
-            <link>undefinedb6388485-47e2-43b5-85be-c38b15787984/index.html</link>
+            <link>http://johnjung.me/b6388485-47e2-43b5-85be-c38b15787984/index.html</link>
             <guid isPermaLink="false">b6388485-47e2-43b5-85be-c38b15787984</guid>
             <pubDate>Sat, 14 May 2016 21:37:10 GMT</pubDate>
         </item>
