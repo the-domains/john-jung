@@ -11,7 +11,8 @@ color:
     - '#3498DB'
     - '#2980B9'
 opengraph:
-  image: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/f0d55d1e-a937-425f-82c0-07507e332e08.jpg'
+  image: >-
+    https://the-grid-user-content.s3-us-west-2.amazonaws.com/f0d55d1e-a937-425f-82c0-07507e332e08.jpg
 layout_spectrum: 0.7163609794806689
 author:
   name: John Jung
