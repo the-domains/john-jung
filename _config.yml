@@ -1,4 +1,4 @@
-typography_spectrum: 0.5176629121415317
+typography_spectrum: 0.7886753003112972
 color:
   brandStrength: 0.47216580528765917
   lightness: 0.055781197967007756
@@ -13,7 +13,7 @@ color:
 opengraph:
   image: >-
     https://the-grid-user-content.s3-us-west-2.amazonaws.com/f0d55d1e-a937-425f-82c0-07507e332e08.jpg
-layout_spectrum: 0.5924370693974197
+layout_spectrum: 0.21736034867353737
 author:
   name: John Jung
   url: 'https://www.linkedin.com/in/johnjjung'
