@@ -1,19 +1,19 @@
-typography_spectrum: 0.0749113408382982
+typography_spectrum: 0.5785892170388252
 color:
-  brandStrength: 0.7413725787773728
-  lightness: 0.8049738872796297
-  saturation: 0.6716697043739259
-  rhythmicContrast: 0.2760789783205837
+  brandStrength: 0.9725547439884394
+  lightness: 0.22554679540917277
+  saturation: 0.7566791297867894
+  rhythmicContrast: 0.7877267070580274
   brandColors:
-    - '#2C3E50'
-    - '#E74C3C'
-    - '#ECF0F1'
-    - '#3498DB'
-    - '#2980B9'
+    - '#1C1D21'
+    - '#31353D'
+    - '#445878'
+    - '#92CDCF'
+    - '#EEEFF7'
 opengraph:
   image: >-
     https://the-grid-user-content.s3-us-west-2.amazonaws.com/f0d55d1e-a937-425f-82c0-07507e332e08.jpg
-layout_spectrum: 0.7163609794806689
+layout_spectrum: 0.45553934504278004
 author:
   name: John Jung
   url: 'https://www.linkedin.com/in/johnjjung'
